@@ -7,5 +7,5 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 html {
-  font-size: 1.1875e; /* 19px@16px */
+  font-size: 1.1875em; /* 19px@16px */
 }
