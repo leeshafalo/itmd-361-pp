@@ -15,3 +15,7 @@ html {
   line-height: 1.4118em; /*24px@17px */
 }
 
+html {
+  font-size: 1.125em; /* 18px */
+  padding: 1.5em 0.33em 1.5em 0.33em; /* 12 6 12 6 top right bottom left px  @18px */
+}
