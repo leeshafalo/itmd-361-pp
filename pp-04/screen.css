@@ -14,8 +14,8 @@ html {
 }
 
 h1 {
-  font-size : 1.777em; /*31.984px : perfect fourth rate */
-  line-height : 1.378em; /*44px & 31.982px */
+  font-size : 2.369em; /*42.635px @ 18px em : perfect fourth rate */
+  line-height : 1.548em; /*66px & 42.635px em */
 }
 
 h2 {
