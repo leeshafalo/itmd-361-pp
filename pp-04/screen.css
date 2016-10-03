@@ -23,3 +23,16 @@ h2 {
   font-size: 1.777em; /*31.984px @ 18px em */
   line-height: 1.378em; /*44px @ 31.984px em */
 }
+
+p,
+ul {
+  padding-bottom: 1.222em; /* 22px : html line-height */
+}
+
+li {
+  padding-bottom: 0.611em; /* 11px */
+}
+
+li:last-child {
+  padding-bottom: 0;   
+}
