@@ -17,11 +17,13 @@ html {
 h1 {
   font-size: 2.369em; /*42.635px @ 18px em : perfect fourth rate */
   line-height: 1.548em; /*66px & 42.635px em */
+  padding-bottom: 0.516em; /*22px*/
 }
 
 h2 {
   font-size: 1.777em; /*31.984px @ 18px em */
   line-height: 1.378em; /*44px @ 31.984px em */
+  padding-bottom: 0.788em; /*22px */ 
 }
 
 p,
@@ -36,3 +38,9 @@ li {
 li:last-child {
   padding-bottom: 0;   
 }
+
+/* ===== LAYOUT STYLES ===== */
+
+/* ===== MODULAR STYLES ===== */
+
+/* ===== STATE STYLES ===== */
