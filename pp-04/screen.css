@@ -9,16 +9,16 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* ===== BASE STYLES ===== */
 html {
-  font-size : 1.125em; /* 18px */
-  line-height : 1.222em; /* 22px @ 18px :120% */
+  font-size: 1.125em; /* 18px */
+  line-height: 1.222em; /* 22px @ 18px :120% */
 }
 
 h1 {
-  font-size : 2.369em; /*42.635px @ 18px em : perfect fourth rate */
-  line-height : 1.548em; /*66px & 42.635px em */
+  font-size: 2.369em; /*42.635px @ 18px em : perfect fourth rate */
+  line-height: 1.548em; /*66px & 42.635px em */
 }
 
 h2 {
-  font-size : 1.777em; /*31.984px @ 18px em */
-  line-height : 1.378em; /*44px @ 31.984px em */
+  font-size: 1.777em; /*31.984px @ 18px em */
+  line-height: 1.378em; /*44px @ 31.984px em */
 }
