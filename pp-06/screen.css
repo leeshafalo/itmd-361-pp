@@ -81,11 +81,23 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 }
 @media screen and (min-width: 800px) {
 
+  #content {
+    display: flex;
+    justify-content: flex-end;
+  }
   #three,
   #two,
   #one {
-    height: 50vw;
-    width: 50vw;
+    height: 100vw;
+    width: 100vw;
+  }
+  #three {
+  }
+
+  #two {
+  }
+
+  #one {
   }
 
 }
