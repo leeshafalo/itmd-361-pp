@@ -3,7 +3,6 @@
   outputs the correct value for x (5).
 */
 
-var x = 5;
 
 function double(num) {
   x = num * 2;
@@ -11,6 +10,7 @@ function double(num) {
 }
 
 double(6);
+var x = 5;
 console.log('The value of x is:', x, 'It should be 5.');
 
 /*
