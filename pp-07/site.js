@@ -20,14 +20,15 @@ console.log('The value of x is:', x, 'It should be 5.');
   `window` global object, like `window.x`).
 */
 
-var x = 5;
+(function() {
+   var x = 5;
 
-function double(num) {
-  var x = 5;
-  x = num *2;
-  return x;
-}
+  function double(num) {
+    var x = 5;
+    x = num *2;
+    return x;
+  }
 
-double(6);
-console.log('The value of x is: ',x, 'It should be 5.');
-
+  double(6);
+  console.log('The value of x is: ',x, 'It should be 5.');
+})();
